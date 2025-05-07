@@ -2,6 +2,7 @@
 
 This project lets you embed a live Google Docs document inside a full-page website, styled to resemble the Google Docs interface. Visitors can see your real-time writing, but cannot make edits.
 
+<!--
 ## ✅ Features
 
 - **Live Editing View** — As you update the document, viewers see changes instantly
@@ -33,6 +34,7 @@ This project lets you embed a live Google Docs document inside a full-page websi
 - Make sure your Google Doc is set to "Anyone with the link can view"
 - The embedded document will be read-only for visitors
 - You can still edit the document through Google Docs directly
+-->
 
 ## 🎨 Customization
 
