@@ -1,6 +1,7 @@
 # Live Google Docs Blog
 
-This project lets you embed a live Google Docs document inside a full-page website, styled to resemble the Google Docs interface. Visitors can see your real-time writing, but cannot make edits.
+Code repo for Jordan Ford & David Carter design blog on tech, design, and futurism
+Building in public 2025
 
 <!--
 ## ✅ Features
